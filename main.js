@@ -34,13 +34,6 @@ const app = {
                 "path": "./assets/music/motdoanGonnaBeYu.mp3",
                 "img": "./assets/img/motdoanGonnaBeYu.png"
             },
-            
-            {
-                "name": "cohenvoithanhxuan",
-                "singer": "GeyD",
-                "path": "./assets/music/cohenvoithanhxuan.mp3",
-                "img": "./assets/img/cohenvoithanhxuan.png"
-            },
             {
                 "name": "cohenvoithanhxuan",
                 "singer": "GeyD",
