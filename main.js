@@ -35,12 +35,6 @@ const app = {
                 "img": "./assets/img/motdoanGonnaBeYu.png"
             },
             {
-                "name": "luuluyensauchiatay",
-                "singer": "zaiDn",
-                "path": "./assets/music/luuluyensauchiatay.mp3",
-                "img": "./assets/img/luuluyensauchiatay.jpeg"
-            },
-            {
                 "name": "cohenvoithanhxuan",
                 "singer": "GeyD",
                 "path": "./assets/music/cohenvoithanhxuan.mp3",
